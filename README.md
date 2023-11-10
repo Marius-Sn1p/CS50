@@ -13,9 +13,9 @@ The final project is a culmination of the skills and knowledge acquired througho
 ### Usage
 To use these solutions as a reference:
 
-Clone the repository: git clone https://github.com/Marius-Sn1p/CS50P
-Navigate to the desired problem set or the final project folder.
-Review the code and documentation provided.
+* Clone the repository: git clone https://github.com/Marius-Sn1p/CS50P
+* Navigate to the desired problem set or the final project folder.
+* Review the code and documentation provided.
 
 ### Disclaimer
 These solutions are provided for educational purposes only. It's highly encouraged to attempt solving the problem sets independently before referring to these solutions. This repository is not endorsed by or affiliated with Harvard University.
