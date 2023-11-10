@@ -18,4 +18,9 @@ Navigate to the desired problem set or the final project folder.
 Review the code and documentation provided.
 
 ### Disclaimer
-These solutions are provided for educational purposes only. It's highly encouraged to attempt solving the problem sets independently before referring to these solutions. This repository is not endorsed by or affiliated with Harvard Universit
+These solutions are provided for educational purposes only. It's highly encouraged to attempt solving the problem sets independently before referring to these solutions. This repository is not endorsed by or affiliated with Harvard University.
+
+### Acknowledgments
+Thanks to Harvard University and David J. Malan for providing an excellent learning platform.
+
+![image](https://github.com/Marius-Sn1p/CS50P/assets/106258848/6690f586-c739-4050-b237-110a6eca59cd)
