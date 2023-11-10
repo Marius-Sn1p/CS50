@@ -5,7 +5,7 @@
 Welcome to the repository containing my solutions for the CS50P course problem sets and the final project. This course, offered by Harvard University, is an introduction to programming with Python, covering a wide range of fundamental concepts. This repository is designed to showcase my understanding and application of these concepts.
 
 ### Repository structure
-Repository contains 9 folders coresponding with 9 weeks of course. Week 0 - Week 8 contains problem sets and Week 9 contains final project.
+Repository contains 9 folders coresponding with 9 weeks of course. Week 0 - Week 8 contains solutions to problem sets and Week 9 contains final project.
 
 ### Final Project
 The final project is a culmination of the skills and knowledge acquired throughout the course. Recipe Collector is an intuitive application that delivers recipes right to your inbox. Whether you want a single meal or a whole day menu - you are covered!.
