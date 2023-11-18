@@ -1,5 +1,5 @@
 # CS50
-## CS50P course problem set solutions
+## CS50P course problems sets solutions
 
 ### Introduction
 Welcome to the repository containing my solutions for the CS50P course problem sets and the final project. This course, offered by Harvard University, is an introduction to programming with Python, covering a wide range of fundamental concepts. This repository is designed to showcase my understanding and application of these concepts.
